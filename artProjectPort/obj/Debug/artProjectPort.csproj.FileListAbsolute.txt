@@ -1,0 +1,8 @@
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\artProjectPort\artProjectPort\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\artProjectPort\artProjectPort\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\artProjectPort\artProjectPort\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\artProjectPort\artProjectPort\obj\Debug\artProjectPort.csproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\artProjectPort\artProjectPort\bin\Debug\artProjectPort.exe
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\artProjectPort\artProjectPort\bin\Debug\artProjectPort.pdb
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\artProjectPort\artProjectPort\obj\Debug\artProjectPort.exe
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\artProjectPort\artProjectPort\obj\Debug\artProjectPort.pdb
